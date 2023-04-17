@@ -10,7 +10,7 @@
 
 The project will be developed using Agile methodology with short iterations to ensure a good responsiveness to client requests. Unit and integration tests will be performed regularly throughout development to ensure code quality. Development will take place in a separate environment from the production environment.
 
-APIs to be implemented for the next session:
+## APIs to be implemented for the next session:
 
 - Get all cities:  GET /api/villes    
 This API returns a list of all cities available in the database.
@@ -31,7 +31,7 @@ This API takes the ID of the pharmacy and the starting address as parameters and
 # Technologies used:  
 Postman for testing, Eclipse, MySQL, Maven, and Spring Boot.
 
-To run the application, follow these steps:
+## To run the application, follow these steps:
 
 1. Clone the repository.
 2. Open the project in Eclipse.
