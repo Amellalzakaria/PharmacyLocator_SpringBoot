@@ -2,10 +2,13 @@
 
 ## The Pharmacy Locator Application is a web application that allows users to easily find pharmacies in their city or area and filter them by opening hours. The application offers the following features:
 
-Search for pharmacies by city or area
+-- Search for pharmacies by city or area
 Filter pharmacies by opening hours (day or night)
+
 Display a list of found pharmacies
+
 Display detailed information about a pharmacy
+
 Display directions to a pharmacy
 
 The project will be developed using Agile methodology with short iterations to ensure a good responsiveness to client requests. Unit and integration tests will be performed regularly throughout development to ensure code quality. Development will take place in a separate environment from the production environment.
