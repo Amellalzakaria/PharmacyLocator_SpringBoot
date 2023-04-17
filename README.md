@@ -1,4 +1,5 @@
-# PharmacyLocator_application_SpringBoot
+# PharmacyLocator_application_SpringBoot **This text will appear in bold**
+
 
 Fonctionnalités
 Les fonctionnalités de l'application comprennent :
