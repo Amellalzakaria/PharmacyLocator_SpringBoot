@@ -12,8 +12,7 @@ The project will be developed using Agile methodology with short iterations to e
 
 APIs to be implemented for the next session:
 
-- Get all cities:
-GET /api/cities
+- Get all cities: GET /api/cities  
 This API returns a list of all cities available in the database.
 - Get all zones for a given city:
 GET /api/cities/city/zones.  
