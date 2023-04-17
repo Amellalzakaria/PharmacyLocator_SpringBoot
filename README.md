@@ -1,6 +1,6 @@
 # PharmacyLocator_application_SpringBoot 
 
-##This is an application for locating pharmacies that allows users to easily find a pharmacy in their city or area and filter pharmacies by their opening hours. The application has the following features:
+## This is an application for locating pharmacies that allows users to easily find a pharmacy in their city or area and filter pharmacies by their opening hours. The application has the following features:
 
 Search for pharmacies by city
 Search for pharmacies by area
