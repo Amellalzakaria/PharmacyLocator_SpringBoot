@@ -32,10 +32,10 @@ GET /api/pharmacies/id/directions?from=from
 This API takes the ID of the pharmacy and the starting address as parameters and returns directions to the pharmacy.
 # Technologies used: Postman for testing, Eclipse, MySQL, Maven, and Spring Boot.
 
-# To run the application, follow these steps:
+To run the application, follow these steps:
 
-Clone the repository.
-Open the project in Eclipse.
-Run the application using Maven.
-Test the APIs using Postman.
+1. Clone the repository.
+2. Open the project in Eclipse.
+3. Run the application using Maven.
+4. Test the APIs using Postman.
 Please refer to the documentation for more information about the APIs and how to use them.
