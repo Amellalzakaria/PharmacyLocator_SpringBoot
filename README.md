@@ -19,8 +19,8 @@ This API returns a list of all cities available in the database.
 GET /api/cities/city/zones.
 This API takes the name of the city as a parameter and returns a list of all zones available for that city.
 - Get all pharmacies for a given zone:
-GET /api/cities/city/zones/zone/pharmacies
--- This API takes the name of the city and the name of the zone as parameters and returns a list of all pharmacies available for that zone.
+GET /api/cities/city/zones/zone/pharmacies.
+This API takes the name of the city and the name of the zone as parameters and returns a list of all pharmacies available for that zone.
 - Get all pharmacies on duty for a given zone and period:
 GET /api/cities/city/zones/zone/pharmacies/duty?period=period
 This API takes the name of the city, the name of the zone, and the period (day or night) as parameters and returns a list of all pharmacies on duty available for that zone and period.
