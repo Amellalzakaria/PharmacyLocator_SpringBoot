@@ -1,2 +1,2 @@
-# PharmacyLocator_SpringBoot
-#pharmacy locator application
+# PharmacyLocator_application_SpringBoot
+
