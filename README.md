@@ -4,6 +4,7 @@ Fonctionnalités
 Les fonctionnalités de l'application comprennent :
 
 Recherche de pharmacies par ville.
+
 Recherche de pharmacies par zone.
 Filtrage des pharmacies selon les horaires de garde (jour ou nuit).
 Affichage de la liste des pharmacies trouvées.
