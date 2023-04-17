@@ -29,7 +29,7 @@ This API takes the ID of the pharmacy as a parameter and returns all details of 
 - Get directions to a pharmacy:
 GET /api/pharmacies/id/directions?from=from  
 This API takes the ID of the pharmacy and the starting address as parameters and returns directions to the pharmacy.
-# Technologies used: Postman for testing, Eclipse, MySQL, Maven, and Spring Boot.
+# Technologies used:  Postman for testing, Eclipse, MySQL, Maven, and Spring Boot.
 
 To run the application, follow these steps:
 
