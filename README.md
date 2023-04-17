@@ -3,11 +3,9 @@
 ## The Pharmacy Locator Application is a web application that allows users to easily find pharmacies in their city or area and filter them by opening hours. The application offers the following features:
 
 - Search for pharmacies by city or area
-**Filter pharmacies by opening hours (day or night)
-
-*Display a list of found pharmacies
-
-.. Display detailed information about a pharmacy
+- Filter pharmacies by opening hours (day or night)
+- Display a list of found pharmacies
+- Display detailed information about a pharmacy
 
 Display directions to a pharmacy
 
