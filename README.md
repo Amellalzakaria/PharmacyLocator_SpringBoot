@@ -16,7 +16,7 @@ APIs to be implemented for the next session:
 GET /api/cities
 This API returns a list of all cities available in the database.
 - Get all zones for a given city:
-GET /api/cities/city/zones<br>
+GET /api/cities/city/zones.
 This API takes the name of the city as a parameter and returns a list of all zones available for that city.
 - Get all pharmacies for a given zone:
 GET /api/cities/city/zones/zone/pharmacies
