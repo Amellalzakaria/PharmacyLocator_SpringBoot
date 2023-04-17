@@ -1,4 +1,4 @@
-# PharmacyLocator_application_SpringBoot **This text will appear in bold**
+# PharmacyLocator_application_SpringBoot 
 
 
 Fonctionnalités
