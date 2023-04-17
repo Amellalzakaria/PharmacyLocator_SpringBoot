@@ -16,16 +16,16 @@ APIs to be implemented for the next session:
 GET /api/cities
 This API returns a list of all cities available in the database.
 - Get all zones for a given city:
-GET /api/cities/city/zones.
+GET /api/cities/city/zones.  
 This API takes the name of the city as a parameter and returns a list of all zones available for that city.
-- Get all pharmacies for a given zone:
-GET /api/cities/city/zones/zone/pharmacies.
+- Get all pharmacies for a given zone:  
+GET /api/cities/city/zones/zone/pharmacies.  
 This API takes the name of the city and the name of the zone as parameters and returns a list of all pharmacies available for that zone.
-- Get all pharmacies on duty for a given zone and period:
-GET /api/cities/city/zones/zone/pharmacies/duty?period=period
+- Get all pharmacies on duty for a given zone and period:  
+GET /api/cities/city/zones/zone/pharmacies/duty?period=period  
 This API takes the name of the city, the name of the zone, and the period (day or night) as parameters and returns a list of all pharmacies on duty available for that zone and period.
-- Get details of a pharmacy:
-GET /api/pharmacies/id
+- Get details of a pharmacy:  
+GET /api/pharmacies/id  
 This API takes the ID of the pharmacy as a parameter and returns all details of the pharmacy, including its address, opening hours, and geographical coordinates.
 - Get directions to a pharmacy:
 GET /api/pharmacies/id/directions?from=from
