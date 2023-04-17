@@ -20,7 +20,7 @@ GET /api/cities/city/zones
 This API takes the name of the city as a parameter and returns a list of all zones available for that city.
 - Get all pharmacies for a given zone:
 GET /api/cities/city/zones/zone/pharmacies
-This API takes the name of the city and the name of the zone as parameters and returns a list of all pharmacies available for that zone.
+-- This API takes the name of the city and the name of the zone as parameters and returns a list of all pharmacies available for that zone.
 - Get all pharmacies on duty for a given zone and period:
 GET /api/cities/city/zones/zone/pharmacies/duty?period=period
 This API takes the name of the city, the name of the zone, and the period (day or night) as parameters and returns a list of all pharmacies on duty available for that zone and period.
@@ -30,9 +30,9 @@ This API takes the ID of the pharmacy as a parameter and returns all details of 
 - Get directions to a pharmacy:
 GET /api/pharmacies/id/directions?from=from
 This API takes the ID of the pharmacy and the starting address as parameters and returns directions to the pharmacy.
-#*Technologies used: Postman for testing, Eclipse, MySQL, Maven, and Spring Boot.
+# Technologies used: Postman for testing, Eclipse, MySQL, Maven, and Spring Boot.
 
-To run the application, follow these steps:
+# To run the application, follow these steps:
 
 Clone the repository.
 Open the project in Eclipse.
